@@ -1,3 +1,7 @@
-.body {
-    background-color: red;
+body {
+    background-color: beige;
+}
+
+.bg-change{
+    background-color: blueviolet;
 }
